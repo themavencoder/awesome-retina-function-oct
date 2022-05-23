@@ -28,3 +28,7 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [ ] [Publication: (2020) Optoretinogram: optical measurement of human cone and rod photoreceptor responses to light](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-17-4658&id=434516)
 - [ ] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation - decrease between EZ and RPE](https://pubmed.ncbi.nlm.nih.gov/23633665/)
 - [ ] [Publication: (2019) Light-induced changes of the subretinal space of the temporal retina observed via optical coherence tomography](https://www.nature.com/articles/s41598-019-50057-8)
+- [ ] [Publication: (2000) Slow optical changes in human photoreceptors induced by light](https://pubmed.ncbi.nlm.nih.gov/10634632/)
+
+### Light adaptation in animals
+- [ ] [Publication (2013) In vivo Optical Coherence Tomography of Light-Driven Melanosome Translocation in Retinal Pigment Epithelium](https://www.nature.com/articles/srep02644) 
