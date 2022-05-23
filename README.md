@@ -27,3 +27,4 @@
 combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11218/1121813/Investigating-the-functional-response-of-human-cones-and-rods-with/10.1117/12.2544462.full?SSO=1)
 - [ ] [Publication: (2020) Optoretinogram: optical measurement of human cone and rod photoreceptor responses to light](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-17-4658&id=434516)
 - [ ] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation - decrease between EZ and RPE](https://pubmed.ncbi.nlm.nih.gov/23633665/)
+- [ ] [Publication: (2019) Light-induced changes of the subretinal space of the temporal retina observed via optical coherence tomography](https://www.nature.com/articles/s41598-019-50057-8)
