@@ -48,3 +48,4 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 
 ### ORG study in diseased animals
 - [ ] [Publication: (2020) Preventing diabetic retinopathy by mitigating subretinal space oxidative stress in vivo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310384/)
+- [ ] [Publication: (2016) Delayed Rod-Mediated Dark Adaptation Is a Functional Biomarker for Incident Early Age-Related Macular Degeneration](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724453/)
