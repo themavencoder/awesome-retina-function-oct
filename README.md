@@ -41,3 +41,4 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [ ] [Publication: (2016) In vivooptophysiology reveals that G-protein activation triggers osmotic swelling and increased light scattering of rod photoreceptors](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5389324&blobtype=pdf)
 - [ ] [Publication: (2016) Light-Induced Thickening of Photoreceptor Outer Segment Layer Detected by Ultra-High Resolution OCT Imaging](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4968769/)
 - [ ] [Publication: (1994) Light-dependent hydration of the space surrounding photoreceptors in chick retina -  hydration of the sub-retinal space between PROS, hydration of sub-retinal space between PROS and RPE](https://pubmed.ncbi.nlm.nih.gov/8188464/)
+- [ ] [Publication: (1994) Light-dependent hydration of the space surrounding photoreceptors in the cat retina](https://pubmed.ncbi.nlm.nih.gov/7918224/)
