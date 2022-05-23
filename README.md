@@ -44,3 +44,4 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [ ] [Publication: (1994) Light-dependent hydration of the space surrounding photoreceptors in the cat retina](https://pubmed.ncbi.nlm.nih.gov/7918224/)
 - [ ] [Publication: (2015) Oxidative stress and light-evoked responses of the posterior segment in a mouse model of diabetic retinopathy](https://pubmed.ncbi.nlm.nih.gov/25574049/)
 - [ ] [Publication: (2019) Abstract: Light induced water movement in the outer retina investigated by Optical Coherence Tomography](https://iovs.arvojournals.org/article.aspx?articleid=2746842)
+- [ ] [Publication: (1992) Light-evoked expansion of subretinal space volume in the retina of the frog](https://pubmed.ncbi.nlm.nih.gov/1331360/)
