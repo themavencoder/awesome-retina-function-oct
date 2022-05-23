@@ -25,3 +25,4 @@
 - [ ] [Publication: (2017) Photoreceptor Layer Thickness Changes During Dark Adaptation Observed With Ultrahigh-Resolution Optical Coherence Tomography](https://pubmed.ncbi.nlm.nih.gov/28898357/)
 - [ ] [Publication: (2020) Investigating the functional response of human cones and rods with a
 combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11218/1121813/Investigating-the-functional-response-of-human-cones-and-rods-with/10.1117/12.2544462.full?SSO=1)
+- [ ] [Publication: (2020) Optoretinogram: optical measurement of human cone and rod photoreceptor responses to light](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-17-4658&id=434516)
