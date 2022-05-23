@@ -16,3 +16,6 @@
 ### Light adaptation in humans
 - [ ] [Publication: (2016) In vivo optical imaging of physiological responses to photostimulation in human photoreceptors](https://www.pnas.org/doi/10.1073/pnas.1606428113)
 - [ ] [Publication: (2021) Quantification of intrinsic optical signals in the outer human retina using optical coherence tomography](https://nyaspubs.onlinelibrary.wiley.com/doi/epdf/10.1111/nyas.14721)
+
+### Dark adaptation in humans
+- [ ] [Publication (2017) Photoreceptor Layer Thickness Changes During Dark Adaptation Observed With Ultrahigh-Resolution Optical Coherence Tomography](https://iovs.arvojournals.org/article.aspx?articleid=2654080)
