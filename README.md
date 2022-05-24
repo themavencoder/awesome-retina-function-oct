@@ -5,7 +5,9 @@
 - [ ] [Book: (1998) The first steps in seeing](https://www.amazon.com/First-Steps-Seeing-R-Rodieck/dp/0878937579)
 
 ### Optical coherence tomography (OCT)
+- [ ] [Book: (2012) Biomedical Optics: Principles and Imaging](https://www.amazon.com/Biomedical-Optics-Principles-Lihong-Wang/dp/0470177004)
 - [ ] [Book: (2008) Optical coherence tomography: technology and applications](https://link.springer.com/book/10.1007/978-3-540-77550-8)
+
 
 ### Pupil physiology
 - [ ] [Publication: (2018) Pupillometry: Psychology, Physiology, and Function](https://www.journalofcognition.org/articles/10.5334/joc.18/)
