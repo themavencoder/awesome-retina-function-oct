@@ -25,6 +25,7 @@
 - [X] [Publication: (2017) Photoreceptor Layer Thickness Changes During Dark Adaptation Observed With Ultrahigh-Resolution Optical Coherence Tomography](https://iovs.arvojournals.org/article.aspx?articleid=2654080)
 
 ### Response to light stimulation in humans
+- [X] [Publication: (2021) Functional optoretinography: concurrent OCT monitoring of intrinsic signal amplitude and phase dynamics in human photoreceptors](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-5-2661&id=450016)
 - [X] [Publication: (2021) Functional intrinsic optical signal imaging for objective optoretinography of human photoreceptors](https://journals.sagepub.com/doi/10.1177/1535370220978898)
 - [X] [Publication: (2020) Investigating the functional response of human cones and rods with a
 combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11218/1121813/Investigating-the-functional-response-of-human-cones-and-rods-with/10.1117/12.2544462.full?SSO=1)
