@@ -43,6 +43,7 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 
 
 ### Response to light stimulation in animals
+- [X] [Publication: (2021) In vivo optoretinography of phototransduction activation and energy metabolism in retinal photoreceptors](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.202000462)
 - [X] [Publication: (2020) Fast intrinsic optical signal correlates with activation phase of phototransduction in retinal photoreceptors](https://journals.sagepub.com/doi/10.1177/1535370220935406)
 - [X] [Publication: (2019) Abstract: Light induced water movement in the outer retina investigated by Optical Coherence Tomography](https://iovs.arvojournals.org/article.aspx?articleid=2746842)
 - [X] [Publication: (2016) In vivooptophysiology reveals that G-protein activation triggers osmotic swelling and increased light scattering of rod photoreceptors](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5389324&blobtype=pdf)
