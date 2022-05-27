@@ -62,5 +62,5 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [X] [Publication: (2016) Delayed Rod-Mediated Dark Adaptation Is a Functional Biomarker for Incident Early Age-Related Macular Degeneration](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724453/)
 
 ### ORG study in diseased humans
-- [ ] [Publication: (2021) Cone photoreceptor dysfunction in retinitis pigmentosa revealed by optoretinography](https://www.pnas.org/doi/10.1073/pnas.2107444118)
+- [ ] [Publication: (2021) Cone photoreceptor dysfunction in retinitis pigmentosa revealed by optoretinography - Lassoued et al](https://www.pnas.org/doi/10.1073/pnas.2107444118)
 - [X] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation](https://pubmed.ncbi.nlm.nih.gov/23633665/)
