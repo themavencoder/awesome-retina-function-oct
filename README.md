@@ -66,6 +66,7 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [X] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation](https://pubmed.ncbi.nlm.nih.gov/23633665/)
 
 ### Cone photoreceptor
+- [ ] [Publication: (2021)  Revealing how color vision phenotype and genotype manifest in individual cone cells - Zhang et al](https://iovs.arvojournals.org/article.aspx?articleid=2772246)
 - [ ] [Publication: (2021) Measuring S, M, and L cone sensitivities in the living human eye using phase-sensitive AO-OCT - Bernucci et al](https://iovs.arvojournals.org/article.aspx?articleid=2772765)
 - [ ] [Publication: (2020) Optoretinography of individual human cone photoreceptors - Cooper et al](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39326&id=444748)
 - [ ] [Publication: (2020)  Optoretinogram: Optical measurement of human cone and rod photoreceptor responses to light - Azimipour et al](https://opg.optica.org/ol/fulltext.cfm?uri=ol-45-17-4658&id=434516)
