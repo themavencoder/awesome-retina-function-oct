@@ -64,3 +64,10 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 ### ORG study in diseased humans
 - [ ] [Publication: (2021) Cone photoreceptor dysfunction in retinitis pigmentosa revealed by optoretinography - Lassoued et al](https://www.pnas.org/doi/10.1073/pnas.2107444118)
 - [X] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation](https://pubmed.ncbi.nlm.nih.gov/23633665/)
+
+### Cone photoreceptor
+- [ ] [Publication: (2020) Optoretinography of individual human cone photoreceptors - Cooper et al](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-26-39326&id=444748)
+- [ ] [Publication: (2020) The optoretinogram reveals the primary steps of phototransduction in the living human eye - Pandiyan et al](https://www.science.org/doi/10.1126/sciadv.abc1124)
+- [ ] [Publication: (2019) Cone photoreceptor classification in the living human eye from photostimulation-induced phase dynamics - Zhang et al](https://www.pnas.org/doi/10.1073/pnas.1816360116)
+- [ ] [Publication: (2019)  Functional retinal imaging using adaptive optics swept-source OCT at 1.6 MHz - Azimipour et al](https://opg.optica.org/optica/fulltext.cfm?uri=optica-6-3-300&id=406908)
+- [ ] [Publication: 
