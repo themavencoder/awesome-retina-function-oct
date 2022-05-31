@@ -19,7 +19,7 @@
 
 ### Light adaptation in humans
 - [X] [Publication: (2021) Quantification of intrinsic optical signals in the outer human retina using optical coherence tomography](https://nyaspubs.onlinelibrary.wiley.com/doi/epdf/10.1111/nyas.14721)
-- [X] [Publication: (2016) In vivo optical imaging of physiological responses to photostimulation in human photoreceptors](https://www.pnas.org/doi/10.1073/pnas.1606428113)
+- [X] [Publication: (2016) In vivo optical imaging of physiological responses to photostimulation in human photoreceptors - Hillman et al](https://www.pnas.org/doi/10.1073/pnas.1606428113)
 - [X] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation](https://pubmed.ncbi.nlm.nih.gov/23633665/)
 
 ### Dark adaptation in humans
@@ -35,7 +35,7 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [ ] [Publication: (2019) Cone photoreceptor classification in the living human eye from photostimulation-induced phase dynamics](https://www.pnas.org/doi/10.1073/pnas.1816360116) 
 - [X] [Publication: (2019) Light-induced changes of the subretinal space of the temporal retina observed via optical coherence tomography](https://www.nature.com/articles/s41598-019-50057-8)
 - [X] [Publication: (2017) Photoreceptor Layer Thickness Changes During Dark Adaptation Observed With Ultrahigh-Resolution Optical Coherence Tomography](https://pubmed.ncbi.nlm.nih.gov/28898357/)
-- [ ] [Publication: (2016) In vivo optical imaging of physiological responses to photostimulation in human photoreceptors](https://www.pnas.org/doi/10.1073/pnas.1606428113)
+- [ ] [Publication: (2016) In vivo optical imaging of physiological responses to photostimulation in human photoreceptors - Hillman et al](https://www.pnas.org/doi/10.1073/pnas.1606428113)
 - [X] [Publication: (2000) Slow optical changes in human photoreceptors induced by light](https://pubmed.ncbi.nlm.nih.gov/10634632/)
 
 ### Light adaptation in animals
