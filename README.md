@@ -78,4 +78,4 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 - [ ] [Publication: (2019) Cone photoreceptor classification in the living human eye from photostimulation-induced phase dynamics - Zhang et al](https://www.pnas.org/doi/10.1073/pnas.1816360116)
 - [ ] [Publication: (2019)  Functional retinal imaging using adaptive optics swept-source OCT at 1.6 MHz - Azimipour et al](https://opg.optica.org/optica/fulltext.cfm?uri=optica-6-3-300&id=406908)
 - [ ] [Publication: (2009)  In vivo functional imaging of human cone photoreceptors - Jonnal et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2709869/)
-- [ ] [Publication: (2008) Intrinsic signals from human cone photoreceptors - Grieve et al](https://pubmed.ncbi.nlm.nih.gov/18235019/)
+- [X] [Publication: (2008) Intrinsic signals from human cone photoreceptors - Grieve et al](https://pubmed.ncbi.nlm.nih.gov/18235019/)
