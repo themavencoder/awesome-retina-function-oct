@@ -16,7 +16,7 @@ intrinsic signals](https://doi.org/10.1038/324361a0)
 
 ### OCT isolated retina
 - [ ] [Publication: (2006) Optophysiology: depth-resolved probing of retinal physiology with functional ultrahigh-resolution optical
-coherence tomography](, https://doi.org/10.1073/pnas.0506997103)
+coherence tomography](https://doi.org/10.1073/pnas.0506997103)
 - [ ] [Publication: (2005) Rapid optical coherence tomography and recording functional scattering changes from activated frog retina - Yao et al](https://opg.optica.org/ao/fulltext.cfm?uri=ao-44-11-2019&id=83239)
 
 
