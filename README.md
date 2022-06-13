@@ -1,5 +1,9 @@
 # awesome-retina-function-oct
 
+### Optophysiology
+- [ ] [Publication: (1986) Functional architecture of cortex revealed by optical imaging of
+intrinsic signals](https://doi.org/10.1038/324361a0)
+
 ### Retina
 - [X] [Book: Webvision: The Organization of the Retina and Visual System](https://www.ncbi.nlm.nih.gov/books/NBK11530/pdf/Bookshelf_NBK11530.pdf)
 - [X] [Book: (1998) The first steps in seeing](https://www.amazon.com/First-Steps-Seeing-R-Rodieck/dp/0878937579)
