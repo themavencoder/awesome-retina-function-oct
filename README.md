@@ -58,6 +58,7 @@ combined adaptive optics SLO-OCT system](https://www.spiedigitallibrary.org/conf
 ### Dark adaptation in animals
 - [X] [Publication: (2022) Intrinsic signal optoretinography of dark adaptation kinetics](https://pubmed.ncbi.nlm.nih.gov/35169239/)
 - [X] [Publication: (2013) In vivo Optical Coherence Tomography of Light-Driven Melanosome Translocation in Retinal Pigment Epithelium](https://www.nature.com/articles/srep02644) 
+- [ ] [Publication: (2007) Oxygen distribution and consumption in the macaque retina - Birol et al](https://journals.physiology.org/doi/full/10.1152/ajpheart.00221.2007)
 - [ ] [Publication: (1992) Oxygen distribution and consumption in the cat retina during normoxia and hypoxemia - Linsenmeier et al](https://rupress.org/jgp/article/99/2/177/27994/Oxygen-distribution-and-consumption-in-the-cat)
 
 
