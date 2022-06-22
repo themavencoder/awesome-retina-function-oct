@@ -36,7 +36,7 @@ coherence tomography - Bizheva et al](https://doi.org/10.1073/pnas.0506997103)
 
 ### Dark adaptation in humans
 - [X] [Publication: (2017) Photoreceptor Layer Thickness Changes During Dark Adaptation Observed With Ultrahigh-Resolution Optical Coherence Tomography](https://iovs.arvojournals.org/article.aspx?articleid=2654080)
-- [X] [Publication: (2016)Choroidal Thickness, Photoreceptor Thickness, and Retinal Vascular Caliber Alterations in Dark Adaptation - Alagöz et al](https://www.tandfonline.com/doi/full/10.3109/02713683.2015.1135961)
+- [X] [Publication: (2016) Choroidal Thickness, Photoreceptor Thickness, and Retinal Vascular Caliber Alterations in Dark Adaptation - Alagöz et al](https://www.tandfonline.com/doi/full/10.3109/02713683.2015.1135961)
 
 ### Response to light stimulation in humans
 - [X] [Publication: (2021) Functional optoretinography: concurrent OCT monitoring of intrinsic signal amplitude and phase dynamics in human photoreceptors](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-5-2661&id=450016)
