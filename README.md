@@ -6,6 +6,7 @@
 intrinsic signals](https://doi.org/10.1038/324361a0)
 
 ### Retina
+- [ ] [Publication: (2014) Functional and morphological characteristics of the retinal and choroidal vasculature - Yu et al](https://www.sciencedirect.com/science/article/pii/S1350946214000135)
 - [X] [Book: Webvision: The Organization of the Retina and Visual System](https://www.ncbi.nlm.nih.gov/books/NBK11530/pdf/Bookshelf_NBK11530.pdf)
 - [X] [Book: (1998) The first steps in seeing](https://www.amazon.com/First-Steps-Seeing-R-Rodieck/dp/0878937579)
 
