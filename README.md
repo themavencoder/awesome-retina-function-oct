@@ -36,6 +36,7 @@ coherence tomography - Bizheva et al](https://doi.org/10.1073/pnas.0506997103)
 - [X] [Publication: (2013) Human photoreceptor outer segments shorten during light adaptation](https://pubmed.ncbi.nlm.nih.gov/23633665/)
 
 ### Dark adaptation in humans
+- [X] [Publication: (2023) Optical coherence tomography in healthy human subjects in the setting of prolonged dark adaptation](https://www.nature.com/articles/s41598-023-30747-0)
 - [X] [Publication: (2017) Photoreceptor Layer Thickness Changes During Dark Adaptation Observed With Ultrahigh-Resolution Optical Coherence Tomography](https://iovs.arvojournals.org/article.aspx?articleid=2654080)
 - [X] [Publication: (2016) Choroidal Thickness, Photoreceptor Thickness, and Retinal Vascular Caliber Alterations in Dark Adaptation - Alagöz et al](https://www.tandfonline.com/doi/full/10.3109/02713683.2015.1135961)
 - [ ] [Publication: (2000) Effect of dark adaptation on retinal blood flow - Riva et al](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-2000-10990)
